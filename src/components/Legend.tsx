@@ -2,7 +2,7 @@ export default function Legend() {
   const items = [
     { label: 'शनिबार (Saturday)', color: 'bg-rose-500/20 border-rose-500/30 ring-1 ring-rose-500/10' },
     { label: 'परीक्षा (Exams)', color: 'bg-amber-500/20 border-amber-500/30 ring-1 ring-amber-500/10' },
-    { label: 'विवा / सार्वजनिक विदा (Vacation)', color: 'bg-emerald-500/20 border-emerald-500/30 ring-1 ring-emerald-500/10' },
+    { label: 'विदा / सार्वजनिक विदा (Vacation)', color: 'bg-emerald-500/20 border-emerald-500/30 ring-1 ring-emerald-500/10' },
   ];
 
   return (
